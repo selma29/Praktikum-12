@@ -86,6 +86,8 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk men
 
     print(txt.format(umur))
 
-Hasil output
+## Hasil output latihan 2
 
 ![Gambar](gambar/4.png)
+
+SELESAI!!!
