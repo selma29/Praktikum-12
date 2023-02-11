@@ -78,7 +78,7 @@ Untuk mengganti karakter 'H' dengan karakter 'J', gunakan method replace().
 ![Gambar](gambar/2.png)
 
 ## latihan 2
-![Gambar](gambar/3.png
+![Gambar](gambar/3.png)
 Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk menempatkan variable sebelumnya.
 
     umur = 24
